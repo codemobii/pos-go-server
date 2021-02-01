@@ -7,8 +7,9 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "John Chimaobi",
   "license": "ISC",
+  "engines": { "node": "12.19.0" },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/stack": "^5.14.2",
